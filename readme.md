@@ -4,7 +4,7 @@ node main.js [regex]
 ```
 replace regex with the regular experession WITHOUT slashes (iE: /^test/ should be entered as ^test)
 
-Wortliste taken from [davidaks wortliste](https://github.com/davidak/wortliste)
+Wordlist taken from [davidaks wortliste](https://github.com/davidak/wortliste)
 
 ## further information
 this query is case insensitive
